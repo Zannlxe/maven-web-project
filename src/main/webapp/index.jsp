@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>Made some changes!!!!!!!!</h1>
+<h1>Made some changes!</h1>
 <h1>...</h1>
 <h1>Hello JSP and Servlet!</h1>
 <form action="HelloServlet" method="post">
